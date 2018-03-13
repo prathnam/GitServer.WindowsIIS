@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/Shared/_ItemNotFound.cshtml" hash="ffffffffab53d7d6" filehash="a4673cabdf" flags="110000" assembly="App_Web_5rmiumdk" type="ASP._Page_Views_Shared__ItemNotFound_cshtml">
+    <filedeps>
+        <filedep name="/Views/Shared/_ItemNotFound.cshtml" />
+    </filedeps>
+</preserve>

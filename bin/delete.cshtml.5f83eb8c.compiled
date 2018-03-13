@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/Account/Delete.cshtml" hash="ffffffffab53d7d6" filehash="4919eebb190" flags="110000" assembly="App_Web_22vnirip" type="ASP._Page_Views_Account_Delete_cshtml">
+    <filedeps>
+        <filedep name="/Views/Account/Delete.cshtml" />
+    </filedeps>
+</preserve>
